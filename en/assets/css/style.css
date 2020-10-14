@@ -3771,6 +3771,7 @@ img {
 	height: 200px;
 	overflow: hidden;
 	position: absolute;
+	border-radius: 10px;
 }
 
 .content-carrousel figure:nth-child(1) {
